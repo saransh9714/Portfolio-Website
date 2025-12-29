@@ -205,6 +205,9 @@ body {
   top: 160px;
   left: 10px;
 }
+.card.pathfinder{
+  background-image: url("pathfinder.png");
+}
 
 /* Footer */
 #footer {
